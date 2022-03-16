@@ -1,0 +1,4 @@
+Iqbal Ahmad,HIV,5000,On Duty,D11,abc123
+Aftab Ali,Cancer,12000,Off Duty,D12,abc123
+Iqbal Ahmad,Dentist,6500,off,D13,123
+BISMA ALI,Dentist,100000,Off Duty,D167,Bisma shahzadi 123
